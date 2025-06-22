@@ -1,5 +1,9 @@
 # Mindy - 토마토 성장을 통한 어린이 감정 분석 앱
 
+<div align="center">
+  <img src="assets/images/icons/main.png" alt="Mindy Logo" width="200"/>
+</div>
+
 ## 📱 프로젝트 소개
 
 Mindy는 아이들이 토마토 캐릭터와 대화하면서 감정을 표현하고, AI가 이를 분석하여 부모에게 자녀의 감정 상태를 리포트로 제공하는 모바일 애플리케이션입니다.

@@ -78,7 +78,7 @@ class _ModeSelectionScreenState extends State<ModeSelectionScreen>
                     ),
                     const SizedBox(height: 24),
                     const Text(
-                      'MIDNY',
+                      'MINDY',
                       style: TextStyle(
                         fontSize: 32,
                         fontWeight: FontWeight.bold,
