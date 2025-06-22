@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/images/icons/main_1.png" alt="Mindy Logo" width="1000"/>
 </div>
-# Mindy - 토마토 성장을 통한 어린이 감정 분석 앱
+## Mindy - 토마토 성장을 통한 어린이 감정 분석 앱
 
 ## 📱 프로젝트 소개
 
